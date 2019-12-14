@@ -10,3 +10,4 @@ for key, value in people.items():
        if value not in unique.values(): 
           unique[key] = value
 print(unique)
+print("print something")
