@@ -11,5 +11,4 @@ for i in a[1:]:
     result = gcd(result, i)
 
 print(result)
-print(result)
 
